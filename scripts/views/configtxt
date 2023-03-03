@@ -1,0 +1,7 @@
+index [command] [option]
+
+Usage:
+
+index config --show displays a list of the current config settings
+index config --reset resets the config file with default settings
+index config --set sets a specific config setting

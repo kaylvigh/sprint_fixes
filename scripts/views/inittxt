@@ -1,0 +1,7 @@
+index init [command] [option]
+
+Usage:
+
+index init --all displays all help options
+index init --mk creates all folders and files
+index init --cat creates all folders
